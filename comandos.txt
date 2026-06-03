@@ -1,0 +1,5 @@
+1. git init: Inicia nuevo repositorio Git local en a carpeta actual.
+2. git add: Agrega archivos al área de preparación.
+3. git commmit: Guarda los cambios en el historial.
+4. git push: Sube los cambios al repositorio remoto.
+5. git pull: Trae los cambios del repositorio remoto.
