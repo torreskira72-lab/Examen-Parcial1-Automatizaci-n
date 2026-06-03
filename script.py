@@ -1,0 +1,5 @@
+print("Nombre: Kira Torres Mora")
+print("Comandos Favoritos")
+print("git commit: Guarda los cambios localmente")
+print("git push: Sube mi trabajo a GitHub")
+print("git status: Me muestra que es lo que esta pasando")
